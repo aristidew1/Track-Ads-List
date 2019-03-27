@@ -97,3 +97,9 @@
 @@||ws.batch.com^
 @@||apiproxy.accengage.com^
 @@||s.sc-cdn.net^
+||tags.tiqcdn.com^$app=com.adguard.dns,important
+||tracker.data-vp.com^$app=com.adguard.dns,important
+||app-measurement.com^$app=com.adguard.dns,important
+||graph.instagram.com^$app=com.adguard.dns,important
+||app-analytics.snapchat.com^$app=com.adguard.dns,important
+||resolver.msg.global.xiaomi.net^$app=com.adguard.dns,important
