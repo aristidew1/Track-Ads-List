@@ -103,3 +103,4 @@
 ||graph.instagram.com^$app=com.adguard.dns,important
 ||app-analytics.snapchat.com^$app=com.adguard.dns,important
 ||resolver.msg.global.xiaomi.net^$app=com.adguard.dns,important
+||fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com^$app=com.adguard.dns,important
